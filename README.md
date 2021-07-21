@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hola , soy Jannabel Ramos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Jannabel Ramos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -13,9 +13,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jannabel&show_icons=true&count_private=true&theme=algolia" alt="candida18"  /></p>
 
 
-## 🛠️ Mis Habilidades
+## 🛠️ My Skills
 
-### 👉 Lenguajes de Programación
+### 👉 Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -24,7 +24,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C#%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/C#%20-%2300599C.svg?logo=csharp%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
