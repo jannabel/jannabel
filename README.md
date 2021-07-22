@@ -19,8 +19,8 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C++" src="https://camo.githubusercontent.com/b411b23cd5b4caec607adc36efe3efebd6e2d7f70f1caf9436637dafbb3d232f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2532302d2532333030353939432e7376673f6c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
@@ -55,7 +55,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://camo.githubusercontent.com/6ece45a4e5abb4fa760b09fe9108ffcd0dbf6edb04719bfe43ab0273ae4dc6f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d77686974652e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d626c7565"></a>
+   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlserver.net/"><img alt="SQLServer" src="https://img.shields.io/badge/SQL Server%20-%23430098.svg?logo=sqlserver&logoColor=white"></a>  
   &emsp;
