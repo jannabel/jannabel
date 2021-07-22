@@ -60,6 +60,8 @@
     <a href="https://www.sqlserver.net/"><img alt="SQLServer" src="https://img.shields.io/badge/SQL Server%20-%23430098.svg?logo=sqlserver&logoColor=white"></a>  
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+	 &emsp;
+    <a href="https://mongodb.com/"><img alt="Mongo DB" src ="https://img.shields.io/badge/Mongo DB-%23316192.svg?logo=mongodb&logoColor=white"></a>
  </p>
   
 
