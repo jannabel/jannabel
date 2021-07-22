@@ -55,7 +55,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlserver.net/"><img alt="SQLServer" src="https://img.shields.io/badge/SQL Server%20-%23430098.svg?logo=sqlserver&logoColor=white"></a>  
   &emsp;
