@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jannabel&label=Profile%20views&color=0e75b6&style=plastic" alt="jannabel" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jannabel&show_icons=true&count_private=true&theme=algolia" alt="jannabel"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jannabel&theme=algolia" alt="jannabel"  /></p>
 
 
 ## 🛠️ My Skills
