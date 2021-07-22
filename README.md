@@ -80,7 +80,7 @@
   </a>
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Photoshop%2300f.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
   </a>
     &emsp;
   <a href="#">
