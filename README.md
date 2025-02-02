@@ -19,6 +19,10 @@
 
 <p align="left"> 
   &emsp; 
+	 <a href="https://flutter.dev/">
+    <img alt="Futter" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"/>
+  </a>
+	  &emsp; 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
@@ -31,9 +35,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
+
 </p>
 
 ### 👉 Frontend Development
